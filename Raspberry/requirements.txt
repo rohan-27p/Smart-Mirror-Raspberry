@@ -1,0 +1,4 @@
+opencv-python
+fer
+pyttsx3
+tkinter

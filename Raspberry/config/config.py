@@ -1,0 +1,3 @@
+# config.py
+CAMERA_INDEX = 0
+SPEECH_RATE = 150
